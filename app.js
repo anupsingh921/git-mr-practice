@@ -7,5 +7,5 @@ document.addEventListener("DOMContentLoaded", () => {
         .addEventListener("click", showMessage);
 });
 
-console.log("Feature CD");
+console.log("Feature EF");
 

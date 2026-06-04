@@ -8,3 +8,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 console.log("Feature KJ");
+console.log("hello");
